@@ -1,6 +1,6 @@
 # SmartTray — Siempre un paso antes.
 
-Sitio de producto con la identidad visual de SmartTray: negro, violeta y dorado. Presentación minimalista, tipografía de sistema y componentes Bootstrap 5.3.8.
+Sitio de producto con la identidad visual de SmartTray: azul marino, turquesa y blanco. Presentación minimalista, tipografía de sistema y componentes Bootstrap 5.3.8.
 
 ## Ver la página
 
@@ -13,8 +13,8 @@ No requiere npm ni compilación. Bootstrap, el logo y las imágenes se incluyen 
 - index.html: contenido, navegación, secciones y preguntas.
 - style.css: colores, tipografía, tamaños y diseño adaptable.
 - app.js: demostración interactiva, rutinas y sonido.
-- assets/smarttray-logo.png: logo original de SmartTray.
-- assets/smarttray-product.png: visualización conceptual del producto.
+- assets/smarttray-logo-v2.jpeg: logo original de SmartTray.
+- assets/smarttray-product-v2.png: visualización conceptual del producto.
 - vendor/: Bootstrap y su licencia MIT.
 
 ## Comprobar la demostración
